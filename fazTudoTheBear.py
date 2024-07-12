@@ -3,6 +3,8 @@ import shutil
 import subprocess
 import re
 
+# REPLACE THE FOLLOWING LINE WITH YOUR PATH
+
 directory_path = r"D:\testando\The.Bear.S03.1080p.WEB.H264-SUCCESSFULCRAB-PURO"
 
 def extract_r00_with_winrar(file_path, output_directory):
